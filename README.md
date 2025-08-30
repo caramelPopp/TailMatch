@@ -12,7 +12,7 @@ O **TailMatch** foi idealizado para tornar o processo de adoção mais acessíve
 
 ### 👤 Para Adotantes:
 -  Navegar por uma lista de animais disponíveis para adoção  
--  Filtrar pets por porte, idade, dados vacinais, entre outros  
+-  Buscar pets por espécie, dados vacinais, localização, entre outros  
 -  Acessar perfis completos dos animais com fotos e descrições 
 -  Entrar em contato com o abrigo/ONG responsável pelo pet  
 -  Acessar conteúdos de tutoria e dicas sobre cuidados com os pets  
@@ -35,33 +35,25 @@ O desenvolvimento do aplicativo está sendo feito com as seguintes tecnologias:
 
 - [React Native](https://reactnative.dev/)  
 - [Expo](https://expo.dev/)
-- [TailWind CSS](https://tailwindcss.com/)
-- [Firebase](https://firebase.google.com/)  
 - [Figma](https://www.figma.com/) – prototipagem e design de interface  
 
 ---
 
 ## 👥 Integrantes do grupo
 
-| Nome                  | GitHub                                      | Função                     |
-|-----------------------|---------------------------------------------|----------------------------|
-| Bárbara Rampazi       | [@caramelPopp](https://github.com/caramelPopp) | Líder de Projeto & Dev |
-| Ana Julia Licá        | [@AnajuLica](https://github.com/AnajuLica) | Dev & Suporte UX/UI Designer |
-| Camila de Souza       | [@milasnt](https://github.com/milasnt)     | UX/UI Designer & Suporte Dev |
+| Nome                  | GitHub                                          | Partcipação
+|-----------------------|-------------------------------------------------|--------------
+| Bárbara Rampazi       | [@caramelPopp](https://github.com/caramelPopp)  | Programação, UML, Documentação
+| Ana Julia Licá        | [@AnajuLica](https://github.com/AnajuLica)      | UML, Documentação
+| Camila de Souza       | [@milasnt](https://github.com/milasnt)          | Design/Prototipação, Programação, Banco de Dados
+| Fellipe Leonardo      | [@neoRandom](https://github.com/neoRandom)      | Programação, Banco de Dados
+| Camilly               |                                                 | Documentação
 
 ---
 
 ## 📌 Status do projeto
 
 📍 **Em desenvolvimento** – atualmente estamos trabalhando nas funcionalidades principais e na interface do usuário. Futuras atualizações serão postadas neste repositório.
-
----
-
-## 📷 Protótipos
-
-Confira um pouco do visual planejado para o TailMatch:
-
-[🔗 Protótipo no Figma](https://www.figma.com/design/e19X8dx3RR4cCo6yzNmwu5/TailMatch?node-id=0-1&p=f&t=IJDKOWZqFgmKr6sn-0)
 
 ---
 
@@ -73,5 +65,5 @@ Alguns dos nossos planos futuros para o TailMatch incluem:
 -  **Divulgação e visibilidade**: buscar estratégias e campanhas para alcançar mais usuários e conscientizar sobre a adoção responsável.  
 -  **Parcerias**: estabelecer colaborações com ONGs, protetores independentes e iniciativas públicas ou privadas para fortalecer o impacto do aplicativo.  
 
-Estamos comprometidas em fazer do TailMatch uma ferramenta útil, inclusiva e com propósito social.
+Estamos comprometidos em fazer do TailMatch uma ferramenta útil, inclusiva e com propósito social.
 
